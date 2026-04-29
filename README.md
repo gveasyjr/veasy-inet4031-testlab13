@@ -65,3 +65,6 @@ The application will be found at PORT 30080. The browser URL to access the appli
 
 This is an example URL: http://<YOUR-MACHINE-IP>:30080
 
+
+Having a visual to understand what we're doing/changing overall could make this easier to understand. Understanding how the code works was a challenge.
+
